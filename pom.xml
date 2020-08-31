@@ -11,17 +11,6 @@
 			<url>http://scala-tools.org/repo-releases</url>
 		</pluginRepository>
 	</pluginRepositories>
-
-	<repositories>
-		<repository>
-			<id>pele.farmbio.uu.se</id>
-			<url>http://pele.farmbio.uu.se/artifactory/libs-snapshot</url>
-		</repository>
-	</repositories>
-
-	<properties>
-		<phoenix.version>4.4.0-HBase-1.1</phoenix.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.spark</groupId>
